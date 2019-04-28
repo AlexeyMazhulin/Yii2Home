@@ -3,7 +3,7 @@
 
 
 
-<h3>заглушка</h3>
+<h3>Вьюха без файла</h3>
 <div class="row">
     <div class="col-md-6">
         <pre>

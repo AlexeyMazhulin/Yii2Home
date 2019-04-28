@@ -49,7 +49,7 @@ class ActivityComponent extends Component
                     $model->addError('file', 'не удалось сохранить файл');
                     return false;
                 } else {
-                    $model->filename[$model->file] = basename($path);
+                    $model->filename = basename($path);
 
                 };
 
